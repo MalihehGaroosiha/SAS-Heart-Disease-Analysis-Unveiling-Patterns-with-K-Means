@@ -1,1 +1,4 @@
-# SAS-Heart-Disease-Analysis-Unveiling-Patterns-with-K-Means
+# SAS-Heart Disease Analysis-Unveiling Patterns with K Means
+This repository presents an in-depth exploration of heart disease detection using SAS programming alongside machine learning algorithms, particularly focusing on K-Means clustering. Through meticulous analysis of a comprehensive heart disease dataset, we harnessed the power of SAS to unveil intricate patterns and groupings within the data.
+
+Our investigation identified that K=2 clusters, as determined by the root mean square (RMS) standard deviation, effectively segmented the dataset, providing a binary classification for heart disease presence. By leveraging SAS programming, we delved into the nuances of the clustering process, elucidating key features and parameters contributing to the identification of cardiac health patterns.
